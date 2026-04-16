@@ -6,10 +6,13 @@ body{
     margin: 0;
 }
 header{
+    position: sticky;
+    top: 0;
     background-color: black;
     color: white;
+    border: 2px solid white;
     text-align: center;
-    margin: 5px;
+    margin: 3px;
     border-radius: 12px;
 }
 .header_buttons img{
